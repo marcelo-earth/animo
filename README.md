@@ -14,8 +14,8 @@
   <img
     src=".github/preview.png"
     align="center"
-    alt="Hackbank"
-    title="Hackbank"
+    alt="Animo"
+    title="Animo"
   />
 </p>
 
