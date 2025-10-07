@@ -1,4 +1,13 @@
-# Animo
+<p align="center">
+  <img
+    src=".github/logo.png"
+    align="center"
+    width="100"
+    alt="Animo"
+    title="Animo"
+  />
+  <h1 align="center">✨🪐 Animo ⚛️🩶</h1>
+</p>
 
 Welcome to **Animo ❤️**, an easy way to make cool videos from text.
 
