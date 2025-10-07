@@ -30,6 +30,17 @@ OK. So **Animo** is a **free extension** for them.
 
 Just open your editor, search for **Animo**, and install it — that’s it! 🥹
 
+
+<p align="center">
+  <img
+    src=".github/tutorial.gif"
+    align="center"
+    alt="Tutorial"
+    title="Tutorial"
+  />
+</p>
+
+
 Next time you talk to the AI from your editor, just tell it:  
 > “Create a solar system”
 
