@@ -46,6 +46,7 @@ Next time you talk to the AI from your editor, just tell it:
 
 …and boom! there you have it.
 
-It generates the video of it at the left side of your editor. If you don't see it open the command "Animo: Focus on Animo View"
+It generates the video of it at the left side of your editor. If you don't see it open the command **"Animo: Focus on Animo View"**
+
 
 
