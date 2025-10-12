@@ -44,9 +44,10 @@ Just open your editor, search for **Animo**, and install it — that’s it! �
 Next time you talk to the AI from your editor, just tell it:  
 > “Create a solar system”
 
-…and boom! there you have it.
+…and boom! there you have it. Animo uses an internal script to quickly analyze and generate animated videos.
 
 It generates the video of it at the left side of your editor. If you don't see it open the command **"Animo: Focus on Animo View"**
+
 
 
 
