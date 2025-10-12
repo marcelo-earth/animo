@@ -19,6 +19,15 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src=".github/loop_cat.png"
+    align="center"
+    alt="Animo"
+    title="Animo"
+  />
+</p>
+
 
 Welcome to **Animo ❤️**, an easy way to make cool videos from text.
 
