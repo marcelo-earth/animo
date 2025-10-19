@@ -29,7 +29,7 @@
 </p>
 
 
-Welcome to **Animo ❤️**, an easy way to make cool videos from text.
+Hello!, and welcome to **Animo ❤️**, an easy way to make cool videos from text.
 
 So you maybe have used someday editors like **VSCode**, **Cursor**, **Windsurf**, or **Kiro**?
 
@@ -56,6 +56,7 @@ Next time you talk to the AI from your editor, just tell it:
 …and boom! there you have it. Animo uses an internal script to quickly analyze and generate animated videos.
 
 It generates the video of it at the left side of your editor. If you don't see it open the command **"Animo: Focus on Animo View"**
+
 
 
 
